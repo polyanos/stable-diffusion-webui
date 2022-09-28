@@ -24,3 +24,4 @@ git+https://github.com/openai/CLIP
 resize-right
 torchdiffeq
 kornia
+git+https://github.com/crowsonkb/k-diffusion.git
